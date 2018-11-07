@@ -9,6 +9,7 @@ UP = 0
 DOWN = 1
 RIGHT = 2
 LEFT = 3
+Var = 7
 
 DISTANCE = 20.0
 ANGLE = 90.0
